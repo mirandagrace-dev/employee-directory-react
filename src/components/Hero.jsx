@@ -1,16 +1,17 @@
-import Container from "../Container";
-import Hero from "../Hero";
-import EmployeeTable from "../EmployeeTable";
+import React from "react";
 
-function EmployeeDirectory() {
+const Hero = (props) => {
 	return (
-		<>
-			<Hero />
-			<Container>
-				<EmployeeTable />
-			</Container>
-		</>
+		<section className="hero is-medium is-link">
+			<div className="hero-body has-text-centered">
+				<p className="title">Employee Directory</p>
+				<p className="subtitle">
+					Click on carrots to filter by heading or use the search box to narrow
+					your results.
+				</p>
+			</div>
+		</section>
 	);
-}
+};
 
-export default EmployeeDirectory;
+export default Hero;
