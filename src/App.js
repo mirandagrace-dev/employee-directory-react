@@ -1,4 +1,4 @@
-import Items from "./components/items/Items";
+import Items from "./components/EmployeeTable/EmployeeTable";
 
 function App() {
 	return (
