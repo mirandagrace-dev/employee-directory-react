@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.js": "/employee-directory-react/static/js/main.620e0b3c.chunk.js",
-    "main.js.map": "/employee-directory-react/static/js/main.620e0b3c.chunk.js.map",
-    "runtime-main.js": "/employee-directory-react/static/js/runtime-main.42ccf7f3.js",
-    "runtime-main.js.map": "/employee-directory-react/static/js/runtime-main.42ccf7f3.js.map",
-    "static/js/2.1310d0e4.chunk.js": "/employee-directory-react/static/js/2.1310d0e4.chunk.js",
-    "static/js/2.1310d0e4.chunk.js.map": "/employee-directory-react/static/js/2.1310d0e4.chunk.js.map",
-    "static/js/3.650bb147.chunk.js": "/employee-directory-react/static/js/3.650bb147.chunk.js",
-    "static/js/3.650bb147.chunk.js.map": "/employee-directory-react/static/js/3.650bb147.chunk.js.map",
+    "main.css": "/employee-directory-react/static/css/main.f9655c4d.chunk.css",
+    "main.js": "/employee-directory-react/static/js/main.7cb6542c.chunk.js",
+    "main.js.map": "/employee-directory-react/static/js/main.7cb6542c.chunk.js.map",
+    "runtime-main.js": "/employee-directory-react/static/js/runtime-main.d2409316.js",
+    "runtime-main.js.map": "/employee-directory-react/static/js/runtime-main.d2409316.js.map",
+    "static/js/2.83433e2f.chunk.js": "/employee-directory-react/static/js/2.83433e2f.chunk.js",
+    "static/js/2.83433e2f.chunk.js.map": "/employee-directory-react/static/js/2.83433e2f.chunk.js.map",
+    "static/js/3.99f65fe3.chunk.js": "/employee-directory-react/static/js/3.99f65fe3.chunk.js",
+    "static/js/3.99f65fe3.chunk.js.map": "/employee-directory-react/static/js/3.99f65fe3.chunk.js.map",
     "index.html": "/employee-directory-react/index.html",
-    "static/js/2.1310d0e4.chunk.js.LICENSE.txt": "/employee-directory-react/static/js/2.1310d0e4.chunk.js.LICENSE.txt"
+    "static/css/main.f9655c4d.chunk.css.map": "/employee-directory-react/static/css/main.f9655c4d.chunk.css.map",
+    "static/js/2.83433e2f.chunk.js.LICENSE.txt": "/employee-directory-react/static/js/2.83433e2f.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/employee-directory-react/static/media/background.e12a3d58.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.42ccf7f3.js",
-    "static/js/2.1310d0e4.chunk.js",
-    "static/js/main.620e0b3c.chunk.js"
+    "static/js/runtime-main.d2409316.js",
+    "static/js/2.83433e2f.chunk.js",
+    "static/css/main.f9655c4d.chunk.css",
+    "static/js/main.7cb6542c.chunk.js"
   ]
 }
