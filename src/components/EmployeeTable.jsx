@@ -65,9 +65,9 @@ class EmployeeTable extends Component {
 						</tr>
 					</thead>
 					<tbody>
-						{/* {this.state.filteredEmployees.map((employee) => (
+						{this.state.filteredEmployees.map((employee) => (
 							<EmployeeRows {...employee} key={employee.id.value} />
-						))} */}
+						))}
 					</tbody>
 				</table>
 			</>
