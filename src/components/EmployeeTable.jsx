@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-// import EmployeeRows from "../EmployeeRows/EmployeeRows";
-// import Search from "../Search/Search";
+import EmployeeRows from "./EmployeeRows";
+import Search from "./Search";
 import axios from "axios";
 import "../styles.css";
 
