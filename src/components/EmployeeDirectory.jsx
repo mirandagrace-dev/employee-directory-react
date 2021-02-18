@@ -1,11 +1,14 @@
-import Container from "../Container/Container";
-import Hero from "../Hero/Hero";
-import EmployeeTable from "../EmployeeTable/EmployeeTable";
+import Container from "./Container";
+import Hero from "./Hero";
+import EmployeeTable from "./EmployeeTable";
 
 function EmployeeDirectory() {
 	return (
 		<>
-			<Hero />
+			<div>
+				<Hero />
+			</div>
+
 			<Container>
 				<EmployeeTable />
 			</Container>

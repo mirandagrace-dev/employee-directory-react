@@ -1,9 +1,12 @@
-import Items from "./components/EmployeeTable";
+import EmployeeDirectory from "./components/EmployeeTable";
+import Hero from "./components/Hero";
 
 function App() {
-	return (
+  return (
+
 		<div className="App">
-			<Items />
+			
+			<EmployeeDirectory />
 		</div>
 	);
 }
