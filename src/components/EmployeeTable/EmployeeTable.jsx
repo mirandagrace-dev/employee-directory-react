@@ -33,7 +33,7 @@ class EmployeeTable extends Component {
 					value={this.state.searchTerm}
 					onChange={this.handleInputChange}
 				/>
-				<table className="table is-striped is-fullwidth">
+				<table className="table table-success is-striped is-fullwidth">
 					<thead>
 						<tr>
 							<th>Image</th>
