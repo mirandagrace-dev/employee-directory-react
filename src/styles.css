@@ -1,4 +1,12 @@
 body {
-	background-image: url("../public/background.jpg");
+	background-image: url("./background.jpg");
 	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+div {
+	position: fixed;
+    top: 30%;
+    left: 15%;
+    width: 65%;
 }
