@@ -1,8 +1,8 @@
 import React, { Component } from "react";
-import EmployeeRows from "../EmployeeRows/EmployeeRows";
-import Search from "../Search/Search";
+// import EmployeeRows from "../EmployeeRows/EmployeeRows";
+// import Search from "../Search/Search";
 import axios from "axios";
-import "./EmployeeTable.css";
+import "../styles.css";
 
 class EmployeeTable extends Component {
 	state = {
@@ -28,11 +28,11 @@ class EmployeeTable extends Component {
 	render() {
 		return (
 			<>
-				<Search
+				{/* <Search
 					name="searchTerm"
 					value={this.state.searchTerm}
 					onChange={this.handleInputChange}
-				/>
+				/> */}
 				<table className="table table-success is-striped is-fullwidth">
 					<thead>
 						<tr>
@@ -65,9 +65,9 @@ class EmployeeTable extends Component {
 						</tr>
 					</thead>
 					<tbody>
-						{this.state.filteredEmployees.map((employee) => (
+						{/* {this.state.filteredEmployees.map((employee) => (
 							<EmployeeRows {...employee} key={employee.id.value} />
-						))}
+						))} */}
 					</tbody>
 				</table>
 			</>
